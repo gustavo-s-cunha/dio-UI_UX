@@ -7,8 +7,13 @@ Contendo os desafios relacionados à conclusão do curso
 O repositório é dividido em pasatas, cada uma contendo o desafio proposto e sua solução
 
 ## Desafio 1
-Criando um Wireframe de Média Fidelidade
+Criando um Wireframe de Média Fidelidade  
 
+## Desafio 2
+Criando um Protótipo Simples de 2 páginas (Web ou Mobile)  
+
+## Desafio 3
+UX Research  
 
 <br />
 
